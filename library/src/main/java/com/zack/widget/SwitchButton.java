@@ -17,7 +17,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Checkable;
 
-import com.suke.widget.R;
 
 
 /**

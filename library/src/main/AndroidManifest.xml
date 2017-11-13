@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.suke.widget"
+    package="com.zack.widget"
     android:versionCode="200"
     android:versionName="2.0" >
 

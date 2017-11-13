@@ -34,7 +34,7 @@ layout.xml:
               xmlns:app="http://schemas.android.com/apk/res-auto"
               android:orientation="vertical">
 
-    <com.suke.widget.SwitchButton
+    <com.zack.widget.SwitchButton
         android:id="@+id/switch_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
@@ -44,7 +44,7 @@ layout.xml:
 
 Activity.java:
 ```java
-com.suke.widget.SwitchButton switchButton = (com.suke.widget.SwitchButton)
+com.zack.widget.SwitchButton switchButton = (com.suke.widget.SwitchButton)
     findViewById(R.id.switch_button);
 
 switchButton.setChecked(true);
